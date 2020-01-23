@@ -2,6 +2,6 @@
 # returns the phrase
 
 def parrot(phrase="Squawk!")
-$stdout phrase
-end
+puts phrase
 return parrot
+end
